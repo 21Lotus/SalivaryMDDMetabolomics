@@ -2,7 +2,7 @@
 
 ## Project
 **Project:** Novel Metabolomic and Lipid Therapeutic Targets for Major Depressive Disorder Through a Deep Learning and Laboratory Analysis  
-**Last Updated:** 2026-01-25  
+**Last Updated:** 2026-02-18  
 **Maintainer:** Ananya Lakkaraju  
 
 ---
